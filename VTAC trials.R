@@ -304,3 +304,6 @@ World2map+
 #try other package
 World2 <- get_map('World', zoom=2)
 World2map <- ggmap(World2)
+
+
+#OKIE DOKIE GIT set up
